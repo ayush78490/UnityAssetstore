@@ -1,0 +1,14 @@
+{
+  "name": "com.ayush78490.unityassetstore",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "description": "A Unity package for interacting with the Arweave asset store.",
+  "keywords": [
+    "unity",
+    "asset store",
+    "arweave"
+  ],
+  "dependencies": {
+    "com.unity.package-manager-ui": "1.0.0"
+  }
+}
